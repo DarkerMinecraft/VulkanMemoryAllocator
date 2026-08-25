@@ -5,3 +5,4 @@
 !/bin/VmaSample_Release_vs2026.exe
 !/bin/Shader*.spv
 .vscode/
+*.vcxproj
